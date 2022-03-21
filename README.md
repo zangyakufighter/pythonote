@@ -1,0 +1,2 @@
+# pythonote
+python learning note.
